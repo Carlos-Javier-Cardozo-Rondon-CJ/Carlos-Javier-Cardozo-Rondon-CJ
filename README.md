@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">
+Hola, soy Carlos!
+  <img src="https://avatars.githubusercontent.com/u/204794915?v=4&size=64" width="30"></h1>
 
-<!--
-**Carlos-Javier-Cardozo-Rondon-CJ/Carlos-Javier-Cardozo-Rondon-CJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+programación;Artista+3D;Freelancer;C%20|%20Python;HTML%20|%20CSS%20|%20JS%20|%20UX%20|%20UI%20|%20Blender;Siempre%20Aprendiendo%20Cosas%20Nuevas&center=true&width=380&height=45"></a>
+</p>
 
-Here are some ideas to get you started:
+<img align="left" src="https://avatars.githubusercontent.com/u/85456866?v=4" width="320" />
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Soy-CJ
+-------------------------
+📚 Graduado como Bachiller en la U.E.N Baralt 1 
+📝 Interesado en perfeccionar mis habilidades en programacion orientada a objetos para proyectos, desarrollo web y animación
+🔭 Enfocado a cumplir nuevos objetivos en busca de ampliar mi campo de trabajo
+🌟 lenguages: Python, JavaScript, CSS, HTML, C++, Java
+🌱 Interesado en aprender acerca de desarrollo de inteligencia artificial y entusiasta del arte en 3D
+```
+<hr>
+
