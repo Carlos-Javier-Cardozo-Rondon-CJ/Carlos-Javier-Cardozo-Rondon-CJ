@@ -12,8 +12,8 @@ Hola, soy Carlos!
 ```
 Soy-CJ
 -------------------------
-📚 Graduado como Bachiller en la U.E.N Baralt 1 
-📝 Interesado en perfeccionar mis habilidades en programacion orientada a objetos para proyectos, desarrollo web y animación
+📚 Estudiante de la UVM Campus Cuernavaca | Universidad en Cuernavaca Morelos
+📝 Interesado en perfeccionar mis habilidades en programacion orientada a objetos para proyectos, desarrollo y animación
 🔭 Enfocado a cumplir nuevos objetivos en busca de ampliar mi campo de trabajo
 🌟 lenguages: Python, JavaScript, CSS, HTML, C++, Java
 🌱 Interesado en aprender acerca de desarrollo de inteligencia artificial y entusiasta del arte en 3D
