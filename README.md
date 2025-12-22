@@ -10,12 +10,12 @@ Hola, soy Carlos!
 <hr>
 
 ```
-Soy-CJ
+Soy-Carlos Javier
 -------------------------
 📚 Estudiante de la UVM Campus Cuernavaca | Universidad en Cuernavaca Morelos
-📝 Interesado en perfeccionar mis habilidades en programacion orientada a objetos para proyectos, desarrollo y animación
+📝 Interesado en perfeccionar mis habilidades en programacion para proyectos varios
 🔭 Enfocado a cumplir nuevos objetivos en busca de ampliar mi campo de trabajo
-🌟 lenguages: Python, JavaScript, CSS, HTML, C++, Java
+🌟 lenguages: Python, Java, C++, CSS, HTML, JS
 🌱 Interesado en aprender acerca de desarrollo de inteligencia artificial y entusiasta del arte en 3D
 ```
 <hr>
