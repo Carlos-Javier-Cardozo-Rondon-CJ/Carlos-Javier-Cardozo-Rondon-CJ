@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+formación;Backend+Developer;Artista+3D+y+Diseñador;Apasionado+por+la+IA+y+la+Creatividad;Siempre+aprendiendo+y+creando+cosas+nuevas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+formación;Backend+&+Frontend+Developer;Artista+3D+y+Diseñador;Apasionado+por+la+IA+y+la+Creatividad;Siempre+aprendiendo+y+creando+cosas+nuevas" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Me apasiona el mundo de la informática y el arte digital, buscando siempre unir
 ## 🚀 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,spring,git,github,mysql,blender,mongoDB,PostgrestSQL,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,spring,git,github,mysql,blender,mongoDB,PostgrestSQL,Intelij,Eclipse,vscode&theme=light" />
 </p>
 
 ---
