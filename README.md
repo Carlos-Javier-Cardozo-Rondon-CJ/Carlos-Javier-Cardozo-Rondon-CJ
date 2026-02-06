@@ -33,7 +33,18 @@ Me apasiona el mundo de la informática y el arte digital, buscando siempre unir
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Javier-Cardozo-Rondon-CJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Javier-Cardozo-Rondon-CJ&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight&utcOffset=8" />
+</p>
+
 
 ---
 
