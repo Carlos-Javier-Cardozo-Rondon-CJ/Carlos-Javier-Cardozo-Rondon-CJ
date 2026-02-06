@@ -51,7 +51,7 @@ Me apasiona el mundo de la informática y el arte digital, buscando siempre unir
 ## 🎨 Arte + Tecnología
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k4eDAxcGl6MjgwMmhwanJsY24weHJlMmV5OXp0NW15ZXpweXloYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 </p>
 
 Me considero un **artista digital** que utiliza la informática como herramienta para dar vida a sus ideas.  
@@ -68,6 +68,6 @@ Desde **modelado 3D en Blender** hasta **interfaces interactivas**, mi meta es q
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG13amIyOGIxd2x1eTVwODgyYzBwdW1yZnViNGxqMXpvdThsbWJmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 </p>
 
