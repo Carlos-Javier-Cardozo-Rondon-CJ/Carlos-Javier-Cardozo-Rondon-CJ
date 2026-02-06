@@ -33,10 +33,7 @@ Me apasiona el mundo de la informática y el arte digital, buscando siempre unir
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosJavierCR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJavierCR&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Javier-Cardozo-Rondon-CJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Javier-Cardozo-Rondon-CJ&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 
 ---
 
