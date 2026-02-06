@@ -26,7 +26,7 @@ Me apasiona el mundo de la informática y el arte digital, buscando siempre unir
 ## 🚀 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,spring,git,github,mysql,blender,mongoDB,PostgrestSQL,Intelij,Eclipse,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,spring,git,github,mysql,blender,mongoDB,Postgrest,vscode&theme=light" />
 </p>
 
 ---
