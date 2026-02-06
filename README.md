@@ -34,9 +34,6 @@ Me apasiona el mundo de la informática y el arte digital, buscando siempre unir
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Javier-Cardozo-Rondon-CJ&theme=tokyonight" />
